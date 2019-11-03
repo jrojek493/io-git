@@ -8,5 +8,6 @@ ssss
 vcvxvcxvcx
 Zmiana na gałęzi new-feature
 Linia 3
+tttt
 qqweqw
 
