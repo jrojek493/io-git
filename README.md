@@ -6,4 +6,5 @@ Dzisiejsza data linia 2
 vcvxvcxvcx
 Zmiana na gałęzi new-feature
 Linia 3
+qqweqw
 
